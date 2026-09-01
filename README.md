@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/abj360">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ff2d78&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Toyosi" alt="Hello! I&#39;m Toyosi" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2c76dd&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Toyosi" alt="Hello! I&#39;m Toyosi" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=I%20do%20open%20source;Turning%20coffee" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=360&height=44&lines=I%20do%20open%20source;Turning%20coffee" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -55,20 +55,20 @@ Software engineer who builds things for fun
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abj360&show_icons=true&theme=tokyonight&title_color=ff2d78&icon_color=ff2d78&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abj360&layout=compact&theme=tokyonight&title_color=ff2d78&icon_color=ff2d78&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abj360&show_icons=true&theme=tokyonight&title_color=2c76dd&icon_color=2c76dd&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abj360&layout=compact&theme=tokyonight&title_color=2c76dd&icon_color=2c76dd&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-psi-seven.vercel.app/graph?username=abj360&bg_color=00000000&color=ff2d78&line=ff2d78&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-psi-seven.vercel.app/graph?username=abj360&bg_color=00000000&color=2c76dd&line=2c76dd&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&backgroundColor=fdf2f8%3Bbackground%3Alinear-gradient(135deg%2C%23fdf2f8%2C%23ffe0ee%2C%23ffc9de)&quoteColor=4a0028&authorColor=c2185b&symbolColor=c2185b" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&backgroundColor=f2f7fe%3Bbackground%3Alinear-gradient(135deg%2C%23f2f7fe%2C%23e2edfc%2C%23cfe0fa)&quoteColor=0a2540&authorColor=1b5fbe&symbolColor=1b5fbe" alt="Dev quote" />
 </p>
 
 ---
