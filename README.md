@@ -10,13 +10,15 @@
 
 ### 🚀 About Me
 
-Software engineer who builds things for fun
+Software engineer exploring the intersection of AI systems, software engineering, and ML research
 
-🔭 &nbsp;I'm currently working on **AI engineering**  
-🌱 &nbsp;I'm currently learning **ML**  
-👯 &nbsp;I'm looking to collaborate on **Cuda stuffss**  
-🤔 &nbsp;I'm looking for help with **scaling Websocket**  
-😄 &nbsp;Pronouns: **He/him**
+🔭 &nbsp;I'm currently working on **building AI agents that actually do things**  
+🌱 &nbsp;I'm currently learning **reinforcement learning**  
+👯 &nbsp;I'm looking to collaborate on **production AI infrastructure**  
+🤔 &nbsp;I'm looking for help with **making production behave like localhost** 😭  
+💬 &nbsp;Ask me about **LLM application development**  
+😄 &nbsp;Pronouns: **He/him**  
+⚡ &nbsp;Fun fact: **My love language is unsolicited nerdy facts** 🤓
 
 ### 🛠️ Tech Stack
 
