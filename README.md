@@ -68,7 +68,7 @@ Software engineer who builds things for fun
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&backgroundColor=fdf2f8%3Bbackground%3Alinear-gradient(135deg%2C%23fdf2f8%2C%23ffe0ee%2C%23ffc9de)&quoteColor=4a0028&authorColor=c2185b&symbolColor=c2185b" alt="Dev quote" />
 </p>
 
 ---
