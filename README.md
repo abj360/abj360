@@ -62,7 +62,7 @@ Software engineer who builds things for fun
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abj360&bg_color=00000000&color=e5484d&line=e5484d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-abj360s-projects.vercel.app/graph?username=abj360&bg_color=00000000&color=e5484d&line=e5484d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
