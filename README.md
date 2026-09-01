@@ -15,7 +15,7 @@ Software engineer exploring the intersection of AI systems, software engineering
 🔭 &nbsp;I'm currently working on **building AI agents**  
 🌱 &nbsp;I'm currently learning **reinforcement learning**  
 👯 &nbsp;I'm looking to collaborate on **production AI infrastructure**  
-🤔 &nbsp;I'm looking for help with **making production behave like localhost** 😭  
+🤔 &nbsp;I'm looking for help with **keeping one bug from inviting its friends and family members** 😭  
 💬 &nbsp;Ask me about **LLM application development**  
 😄 &nbsp;Pronouns: **He/him**  
 ⚡ &nbsp;Fun fact: **My love language is unsolicited nerdy facts** 🤓
