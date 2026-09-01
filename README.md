@@ -64,7 +64,7 @@ Software engineer exploring the intersection of AI systems, software engineering
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-psi-seven.vercel.app/graph?username=abj360&bg_color=00000000&color=2c76dd&line=2c76dd&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-psi-seven.vercel.app/graph?username=abj360&bg_color=00000000&color=2c76dd&line=2c76dd&point=c9d1d9&area=true&hide_border=true&v=2" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
