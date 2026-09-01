@@ -18,7 +18,7 @@ Software engineer exploring the intersection of AI systems, software engineering
 🤔 &nbsp;I'm looking for help with **fixing bugs without creating new side quests** 😭  
 💬 &nbsp;Ask me about **LLM application development**  
 😄 &nbsp;Pronouns: **He/him**  
-⚡ &nbsp;Fun fact: **My love language is unsolicited nerdy facts** 🤓
+⚡ &nbsp;Fun fact: **My love language is unsolicited geopolitical facts** 🤓
 
 ### 🛠️ Tech Stack
 
