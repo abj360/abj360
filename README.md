@@ -15,10 +15,10 @@ Software engineer exploring the intersection of AI systems, software engineering
 🔭 &nbsp;I'm currently working on **building AI agents**  
 🌱 &nbsp;I'm currently learning **reinforcement learning**  
 👯 &nbsp;I'm looking to collaborate on **production AI infrastructure**  
-🤔 &nbsp;I'm looking for help with **fixing bugs without creating side quests** 😭  
+🤔 &nbsp;I'm looking for help with **fighting non-deterministic API responses** 😭  
 💬 &nbsp;Ask me about **LLM application development**  
 😄 &nbsp;Pronouns: **He/him**  
-⚡ &nbsp;Fun fact: **My love language is unsolicited geopolitical convos** 🤓
+⚡ &nbsp;Fun fact: **My love language is unsolicited convos about geopolitics** 🤓
 
 ### 🛠️ Tech Stack
 
