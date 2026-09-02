@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Software engineer exploring the intersection of AI systems, software engineering, and ML research
+Builder exploring the intersection of AI systems, software engineering, and ML research
 
 🔭 &nbsp;I'm currently working on **building AI agents**  
 🌱 &nbsp;I'm currently learning **reinforcement learning**  
